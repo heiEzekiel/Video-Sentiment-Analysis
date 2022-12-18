@@ -1,4 +1,5 @@
-# Video-Sentiment-Analysis
+# IS460 - Machine Learning & Applications
+# Video-Sentiment-Analysis Project
 
 ## What the project is about?
 ![plot](./overview.jpg)
