@@ -1,7 +1,7 @@
 # IS460 - Machine Learning & Applications
-# Video-Sentiment-Analysis Project
 
 ## What the project is about?
+### Video-Sentiment-Analysis Project
 ![plot](./overview.jpg)
 
 It is web appication that allows uploading of videos to perform sentiment anaylsis. The possible output labels are [positive, negative, mixed]. 
